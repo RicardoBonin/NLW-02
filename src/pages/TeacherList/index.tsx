@@ -24,6 +24,7 @@ function TeacherList() {
           </div>
         </form>
       </PageHeader>
+      <span>Aula01 2:31 min</span>
     </div>
   );
 }
